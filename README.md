@@ -1,4 +1,3 @@
-# insta.pyszneizdrowe<!doctype html>
 <html lang="ru">
 <html lang="pl">
 <head>
