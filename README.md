@@ -1,4 +1,4 @@
-# insta.pyszneizdrowe<!doctype html>
+<!doctype html>
 <html lang="ru">
 <html lang="pl">
 <head>
